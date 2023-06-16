@@ -78,7 +78,7 @@ Please send me an email if you have a job opening that fits my profile!
 <h3>A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video</h3>
     
 <div style="width: 45%; float:left">
-    <img  style="width: 80%"  src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/back_pipeline.png">
+    <img  style="width: 80%"  src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/back_pipeline.PNG">
 </div> 
 <div style="width: 55%; float:right">
     <b>Mariana-Iuliana Georgescu</b>, Radu Tudor Ionescu, Fahad Shahbaz Khan, Marius Popescu and Mubarak Shah
