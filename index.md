@@ -6,8 +6,8 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-<p>
-I am a final-year Ph.D. candidate in Computer Vision at University of Bucharest. I am very happy to be advised by Prof. Dr. Radu Ionescu. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
+<p align="justify">
+Hi! I am Lili,  a final-year Ph.D. candidate in Computer Vision at University of Bucharest. I am very happy to be advised by Prof. Dr. Radu Ionescu. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
 </p>
 
 
@@ -83,7 +83,7 @@ Please send me an email if you have a job opening that fits my profile!
 <h3>A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video</h3>
     
 <div style="width: 45%; float:left">
-    <img  style="width: 80%"  src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/back_pipeline.PNG">
+    <img  style="width: 60%"  src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/back_pipeline.PNG">
 </div> 
 <div style="width: 55%; float:right">
     <b>Mariana-Iuliana Georgescu</b>, Radu Tudor Ionescu, Fahad Shahbaz Khan, Marius Popescu and Mubarak Shah
