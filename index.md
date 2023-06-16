@@ -9,20 +9,15 @@ layout: default
 
 ### Audiovisual Masked Autoencoders
 
-<div style="width: 20%; float:left">
-<img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline.PNG">
+<div style="width: 50%; float:left">
+<img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
 </div>
-<div style="width: 80%; float:right">
+<div style="width: 50%; float:right">
 <b>Mariana-Iuliana Georgescu</b>, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab
-<br><br>
+<br>
 <a href="https://arxiv.org/pdf/2212.05922.pdf">ArXiv</a>
 </div>
-
-### 
-### 
-### 
-### 
-
+ 
 <!-- [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
