@@ -23,6 +23,8 @@ ArXiv, 2022
 
 * * *
 
+### Audiovisual Masked Autoencoders
+
 <div style="width: 40%; float:left">
 <img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
 </div>
