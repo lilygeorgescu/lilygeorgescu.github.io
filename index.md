@@ -20,10 +20,9 @@ ArXiv, 2022
 <br>
 <a href="https://arxiv.org/pdf/2212.05922.pdf">ArXiv</a>
 </div>
+ 
 
-* * *
-
-### Audiovisual Masked Autoencoders
+Audiovisual Masked Autoencoders
 
 <div style="width: 40%; float:left">
 <img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
