@@ -12,8 +12,7 @@ layout: default
     
 <div style="width: 40%; float:left">
 <img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
-</div>
-<div style="width: 1%; float:left"></div>
+</div> 
 <div style="width: 55%; float:right">
 <b>Mariana-Iuliana Georgescu</b>, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab,
 <br>
@@ -28,8 +27,7 @@ ArXiv, 2022
     
 <div style="width: 40%; float:left">
 <img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
-</div>
-<div style="width: 1%; float:left"> </div>
+</div> 
 <div style="width: 55%; float:right">
 <b>Mariana-Iuliana Georgescu</b>, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab
 <br>
