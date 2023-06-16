@@ -28,7 +28,7 @@ Please send me an email if you have a job opening that fits my profile!
 
 
  
-<h3> Audiovisual Masked Autoencoders</h3>
+<h3>Audiovisual Masked Autoencoders</h3>
     
 <div style="width: 45%; float:left">
    <center><img   style="width: 80%" src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
