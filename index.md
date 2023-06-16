@@ -12,6 +12,9 @@ layout: default
     
 <div style="width: 45%; float:left">
 <img  style="width: 95%" src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
+<br>
+<br>
+<br>
 </div> 
 <div style="width: 55%; float:right">
 <b>Mariana-Iuliana Georgescu</b>, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab,
@@ -22,9 +25,7 @@ ArXiv, 2022
 </div>
   </p>
 
-<br>
-<br>
-<br>
+
 
 <p>
 <h3> Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution</h3>
