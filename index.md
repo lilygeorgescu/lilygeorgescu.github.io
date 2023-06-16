@@ -38,7 +38,7 @@ Please send me an email if you have a job opening that fits my profile!
     </div>
  
  
-<span><p style="color:#FF0000" align="justify">..<br><br></p></span>
+<span><p style="color:#ffffff" align="justify">..<br><br></p></span>
 
 <h3> Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution</h3>
     
