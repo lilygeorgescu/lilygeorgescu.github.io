@@ -10,7 +10,7 @@ layout: default
 <div>
     <h3> Audiovisual Masked Autoencoders</h3>
     
-<div style="width: 40%; float:left">
+<div style="width: 45%; float:left">
 <img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
 </div> 
 <div style="width: 55%; float:right">
@@ -25,7 +25,7 @@ ArXiv, 2022
 <div>
 <h3> Audiovisual Masked Autoencoders</h3>
     
-<div style="width: 40%; float:left">
+<div style="width: 45%; float:left">
 <img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
 </div> 
 <div style="width: 55%; float:right">
