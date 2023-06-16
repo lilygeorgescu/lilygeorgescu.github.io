@@ -10,13 +10,13 @@ layout: default
 <a href="https://scholar.google.com/citations?hl=en&user=XIAPgbwAAAAJ" target="_blank"><img src="imgs/google_scholar.png" height="32"></a>
 <a href="https://www.linkedin.com/in/iuliana-georgescu-2b6486122/" target="_blank"><img src="imgs/linkedin.png" height="32"></a>
 <a href="https://github.com/lilygeorgescu" target="_blank"><img src="imgs/github.png" height="32"></a>
-<a href="georgescu_lily@yahoo.com" target="_blank"><img src="imgs/email.png" height="32"></a>
+<a href="mailto:georgescu_lily@yahoo.com" target="_blank"><img src="imgs/email.png" height="32"></a>
 
 </p>
 
 <p style="color:#FF0000" align="justify"> 
 I am looking for research scientist and post-doc positions (in Europe).
-Please send me an email if you think I am a good fit for your team!
+Please send me an email if you have a job opening that fits my profile!
 </p>
 
 ##  Selected Publications 
