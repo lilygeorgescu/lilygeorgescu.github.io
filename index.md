@@ -21,10 +21,8 @@ ArXiv, 2022
 <a href="https://arxiv.org/pdf/2212.05922.pdf">Paper</a>
 </div>
   </p>
- 
-<p> 
-<hr>
- </p> 
+
+<br><br>
 
 <p>
 <h3> Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution</h3>
