@@ -11,7 +11,8 @@ layout: default
 
 <img  style="width: 50%; float:left" src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline.PNG" width="100">
 <div style="width: 50%; float:right">
-Mariana-Iuliana Georgescu, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab
+**Mariana-Iuliana Georgescu**, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab
+
 
 [ArXiv](https://arxiv.org/pdf/2212.05922.pdf)
 
