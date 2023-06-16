@@ -31,7 +31,8 @@ Please send me an email if you have a job opening that fits my profile!
 <h3> Audiovisual Masked Autoencoders</h3>
     
 <div style="width: 45%; float:left">
-    <img align="center" style="width: 95%" src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
+   <center><img   style="width: 80%" src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
+    </center> 
 </div> 
 <div style="width: 55%; float:right">
     <b>Mariana-Iuliana Georgescu</b>, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab,
@@ -47,8 +48,10 @@ Please send me an email if you have a job opening that fits my profile!
 
 <h3> Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution</h3>
     
-<div style="width: 45%; float:left">
-    <img  align="center" style="width: 80%"  src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/mhca_pipeline.PNG">
+<div style="width: 45%; float:left">    
+    <center>
+    <img style="width: 80%"  src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/mhca_pipeline.PNG">
+    </center>
 </div> 
 <div style="width: 55%; float:right">
     <b>Mariana-Iuliana Georgescu</b>, Radu Tudor Ionescu, Andreea-Iuliana Miron, Olivian Savencu, Nicolae-Catalin Ristea, Nicolae Verga, Fahad Shahbaz Khan
@@ -65,7 +68,9 @@ Please send me an email if you have a job opening that fits my profile!
 <h3>UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection</h3>
     
 <div style="width: 45%; float:left">
-    <img align="center"  style="width: 80%"  src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/ubnormal_examples.png">
+     <center>
+    <img   style="width: 80%"  src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/ubnormal_examples.png">
+    </center>
 </div> 
 <div style="width: 55%; float:right">
     Andra Acsintoae*, Andrei Florescu*, <b>Mariana-Iuliana Georgescu*</b>, Tudor Mare*, Paul Sumedrea*, Radu Tudor Ionescu, Fahad Shahbaz Khan, Mubarak Shah,
@@ -101,7 +106,9 @@ Please send me an email if you have a job opening that fits my profile!
 <h3>Anomaly Detection in Video via Self-Supervised and Multi-Task Learning</h3>
     
 <div style="width: 45%; float:left">
-    <img  align="center" style="width: 80%"  src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/sstml_pipeline.png">
+     <center>
+    <img   style="width: 80%"  src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/sstml_pipeline.png">
+    </center>
 </div> 
 <div style="width: 55%; float:right">
     <b>Mariana-Iuliana Georgescu</b>, Antonio Barbalau, Radu Tudor Ionescu, Fahad Shahbaz Khan, Marius Popescu, Mubarak Shah
