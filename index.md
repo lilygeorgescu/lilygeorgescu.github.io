@@ -6,10 +6,11 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-<a href="https://scholar.google.com/citations?hl=en&user=XIAPgbwAAAAJ" target="_blank"><img src="imgs/google_scholar.png" height="16"></a>
-<a href="https://www.linkedin.com/in/iuliana-georgescu-2b6486122/" target="_blank"><img src="imgs/linkedin.png" height="16"></a>
-<a href="https://github.com/lilygeorgescu" target="_blank"><img src="imgs/github.png" height="16"></a>
-
+<p align="center"> 
+<a href="https://scholar.google.com/citations?hl=en&user=XIAPgbwAAAAJ" target="_blank"><img src="imgs/google_scholar.png" height="32"></a>
+<a href="https://www.linkedin.com/in/iuliana-georgescu-2b6486122/" target="_blank"><img src="imgs/linkedin.png" height="32"></a>
+<a href="https://github.com/lilygeorgescu" target="_blank"><img src="imgs/github.png" height="32"></a>
+</p>
 
 <p style="color:#FF0000" align="justify"> 
 I am looking for research scientist and post-doc positions (in Europe).
