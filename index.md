@@ -18,20 +18,23 @@ layout: default
 <br>
 ArXiv, 2022
 <br>
-<a href="https://arxiv.org/pdf/2212.05922.pdf">ArXiv</a>
+<a href="https://arxiv.org/pdf/2212.05922.pdf">Paper</a>
 </div>
  </div>
  
 <div>
-<h3> Audiovisual Masked Autoencoders</h3>
+<h3> Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution</h3>
     
 <div style="width: 45%; float:left">
-<img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
+<img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/mhca_pipeline.PNG">
 </div> 
 <div style="width: 55%; float:right">
-<b>Mariana-Iuliana Georgescu</b>, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab
+<b>Mariana-Iuliana Georgescu</b>, Radu Tudor Ionescu, Andreea-Iuliana Miron, Olivian Savencu, Nicolae-Catalin Ristea, Nicolae Verga, Fahad Shahbaz Khan
 <br>
-<a href="https://arxiv.org/pdf/2212.05922.pdf">ArXiv</a>
+WACV, 2023
+<br>
+<a href="https://arxiv.org/pdf/2204.04218.pdf">Paper</a>,
+<a href="https://github.com/lilygeorgescu/MHCA">Code</a>
 </div>
 </div>
 
