@@ -10,6 +10,8 @@ layout: default
 <a href="https://scholar.google.com/citations?hl=en&user=XIAPgbwAAAAJ" target="_blank"><img src="imgs/google_scholar.png" height="32"></a>
 <a href="https://www.linkedin.com/in/iuliana-georgescu-2b6486122/" target="_blank"><img src="imgs/linkedin.png" height="32"></a>
 <a href="https://github.com/lilygeorgescu" target="_blank"><img src="imgs/github.png" height="32"></a>
+<a href="georgescu_lily@yahoo.com" target="_blank"><img src="imgs/email.png" height="32"></a>
+
 </p>
 
 <p style="color:#FF0000" align="justify"> 
@@ -37,11 +39,12 @@ ArXiv, 2022
 <a href="https://arxiv.org/pdf/2212.05922.pdf">Paper</a>
 <br>
 </div>
+
 </span>
 
 
 
-<span >
+<span>
 <h3> Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution</h3>
     
 <div style="width: 45%; float:left">
@@ -55,6 +58,7 @@ WACV, 2023
 <a href="https://arxiv.org/pdf/2204.04218.pdf">Paper</a>,
 <a href="https://github.com/lilygeorgescu/MHCA">Code</a>
 </div>
+
 </span>
 
  
