@@ -33,7 +33,7 @@ Please send me an email if you have a job opening that fits my profile!
     <br>
     ArXiv, 2022
     <br>
-    <a href="https://arxiv.org/pdf/2212.05922.pdf">Paper</a>
+    <a href="https://arxiv.org/pdf/2212.05922.pdf">[Paper]</a>
     <br>
     </div>
  
@@ -50,12 +50,29 @@ Please send me an email if you have a job opening that fits my profile!
     <br>
     WACV, 2023
     <br>
-    <a href="https://arxiv.org/pdf/2204.04218.pdf">Paper</a>,
-    <a href="https://github.com/lilygeorgescu/MHCA">Code</a>
+    <a href="https://arxiv.org/pdf/2204.04218.pdf">[Paper]</a>
+    <a href="https://github.com/lilygeorgescu/MHCA">[Code]</a>
 </div> 
 
 <p style="color:#ffffff" align="justify">..<br><br></p>
 
+
+<h3>UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection</h3>
+    
+<div style="width: 45%; float:left">
+    <img  style="width: 80%"  src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/ubnormal_examples.png">
+</div> 
+<div style="width: 55%; float:right">
+    Andra Acsintoae*, Andrei Florescu*, <b>Mariana-Iuliana Georgescu*</b>, Tudor Mare*, Paul Sumedrea*, Radu Tudor Ionescu, Fahad Shahbaz Khan, Mubarak Shah,
+    *equal contribution
+    <br>
+    CVPR, 2022
+    <br>
+    <a href="https://arxiv.org/pdf/2111.08644.pdf">[Paper]</a>
+    <a href="https://github.com/lilygeorgescu/UBnormal">[Code]</a>
+</div> 
+
+<p style="color:#ffffff" align="justify">..<br><br></p>
 
  
 <!-- [Link to another page](./another-page.html).
