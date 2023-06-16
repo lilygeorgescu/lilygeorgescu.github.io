@@ -2,7 +2,19 @@
 layout: default
 ---
 
+
+
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
+
+<a href="https://scholar.google.com/citations?hl=en&user=XIAPgbwAAAAJ" target="_blank"><img src="imgs/google_scholar.png" height="16"></a>
+<a href="https://www.linkedin.com/in/iuliana-georgescu-2b6486122/" target="_blank"><img src="imgs/linkedin.png" height="16"></a>
+<a href="https://github.com/lilygeorgescu" target="_blank"><img src="imgs/github.png" height="16"></a>
+
+
+<p style="color:#FF0000" align="justify"> 
+I am looking for research scientist and post-doc positions (in Europe).
+Please send me an email if you think I am a good fit for your team!
+</p>
 
 ##  Selected Publications 
 
@@ -24,7 +36,7 @@ ArXiv, 2022
 <a href="https://arxiv.org/pdf/2212.05922.pdf">Paper</a>
 <br>
 </div>
-  </span>
+</span>
 
 
 
@@ -42,7 +54,7 @@ WACV, 2023
 <a href="https://arxiv.org/pdf/2204.04218.pdf">Paper</a>,
 <a href="https://github.com/lilygeorgescu/MHCA">Code</a>
 </div>
- </span>
+</span>
 
  
 <!-- [Link to another page](./another-page.html).
