@@ -12,7 +12,8 @@ layout: default
 <div style="width: 40%; float:left">
 <img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
 </div>
-<div style="width: 60%; float:right">
+<div style="width: 5%; float:left"> </div>
+<div style="width: 55%; float:right">
 <b>Mariana-Iuliana Georgescu</b>, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab
 <br>
 <a href="https://arxiv.org/pdf/2212.05922.pdf">ArXiv</a>
