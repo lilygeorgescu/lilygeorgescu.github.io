@@ -22,7 +22,7 @@ Please send me an email if you have a job opening that fits my profile!
 ##  Selected Publications 
 
 
-<span>
+ 
 <h3> Audiovisual Masked Autoencoders</h3>
     
 <div style="width: 45%; float:left">
@@ -36,11 +36,10 @@ Please send me an email if you have a job opening that fits my profile!
     <a href="https://arxiv.org/pdf/2212.05922.pdf">Paper</a>
     <br>
     </div>
-</span>
+ 
+ 
+<span></span>
 
-
-
-<span>
 <h3> Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution</h3>
     
 <div style="width: 45%; float:left">
@@ -54,7 +53,7 @@ Please send me an email if you have a job opening that fits my profile!
     <a href="https://arxiv.org/pdf/2204.04218.pdf">Paper</a>,
     <a href="https://github.com/lilygeorgescu/MHCA">Code</a>
 </div> 
-</span>
+
 
  
 <!-- [Link to another page](./another-page.html).
