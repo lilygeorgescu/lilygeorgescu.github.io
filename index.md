@@ -6,6 +6,11 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
+<p>
+I am a final-year Ph.D. candidate in Computer Vision at University of Bucharest. I am very happy to be advised by Prof. Dr. Radu Ionescu. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
+</p>
+
+
 <p align="center"> 
 <a href="https://scholar.google.com/citations?hl=en&user=XIAPgbwAAAAJ" target="_blank"><img src="imgs/google_scholar.png" height="32"></a>
 <a href="https://www.linkedin.com/in/iuliana-georgescu-2b6486122/" target="_blank"><img src="imgs/linkedin.png" height="32"></a>
@@ -91,6 +96,23 @@ Please send me an email if you have a job opening that fits my profile!
 
 <p style="color:#ffffff" align="justify">..<br><br></p>
 
+
+
+<h3>Anomaly Detection in Video via Self-Supervised and Multi-Task Learning</h3>
+    
+<div style="width: 45%; float:left">
+    <img  style="width: 80%"  src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/sstml_pipeline.png">
+</div> 
+<div style="width: 55%; float:right">
+    <b>Mariana-Iuliana Georgescu</b>, Antonio Barbalau, Radu Tudor Ionescu, Fahad Shahbaz Khan, Marius Popescu, Mubarak Shah
+    <br>
+    CVPR, 2021
+    <br>
+    <a href="https://arxiv.org/pdf/2011.07491.pdf">[Paper]</a>
+    <a href="https://github.com/lilygeorgescu/AED-SSMTL">[Code]</a>
+</div> 
+
+<p style="color:#ffffff" align="justify">..<br><br></p>
  
 <!-- [Link to another page](./another-page.html).
 
