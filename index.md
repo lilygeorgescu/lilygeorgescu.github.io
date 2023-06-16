@@ -8,7 +8,7 @@ layout: default
 
 
 <span>
-    <h3> Audiovisual Masked Autoencoders</h3>
+<h3> Audiovisual Masked Autoencoders</h3>
     
 <div style="width: 45%; float:left">
 <img  style="width: 95%" src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
