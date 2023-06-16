@@ -22,6 +22,9 @@ ArXiv, 2022
 </div>
  </div>
  
+<div style="width: 100%;"> 
+</div> 
+
 <div>
 <h3> Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution</h3>
     
