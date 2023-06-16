@@ -7,7 +7,7 @@ layout: default
 ##  Selected Publications 
 
 
-<div>
+<p>
     <h3> Audiovisual Masked Autoencoders</h3>
     
 <div style="width: 45%; float:left">
@@ -20,13 +20,13 @@ ArXiv, 2022
 <br>
 <a href="https://arxiv.org/pdf/2212.05922.pdf">Paper</a>
 </div>
- </div>
+  </p>
  
-<div style="width: 100%;"> 
+<p> 
 <hr>
-</div> 
+ </p> 
 
-<div>
+<p>
 <h3> Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution</h3>
     
 <div style="width: 45%; float:left">
@@ -40,7 +40,7 @@ WACV, 2023
 <a href="https://arxiv.org/pdf/2204.04218.pdf">Paper</a>,
 <a href="https://github.com/lilygeorgescu/MHCA">Code</a>
 </div>
-</div>
+ </p>
 
  
 <!-- [Link to another page](./another-page.html).
