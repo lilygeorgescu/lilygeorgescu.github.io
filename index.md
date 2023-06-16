@@ -54,6 +54,8 @@ Please send me an email if you have a job opening that fits my profile!
     <a href="https://github.com/lilygeorgescu/MHCA">Code</a>
 </div> 
 
+<p style="color:#ffffff" align="justify">..<br><br></p>
+
 
  
 <!-- [Link to another page](./another-page.html).
