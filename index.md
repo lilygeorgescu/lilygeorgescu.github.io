@@ -35,7 +35,7 @@ Please send me an email if you have a job opening that fits my profile!
     </center> 
 </div> 
 <div style="width: 55%; float:right">
-    <b>Mariana-Iuliana Georgescu</b>, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab,
+    <b>Mariana-Iuliana Georgescu*</b>, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab*, *equal contribution
     <br>
     ArXiv, 2022
     <br>
