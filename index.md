@@ -7,7 +7,7 @@ layout: default
 ##  Selected Publications 
 
 
-### Audiovisual Masked Autoencoders
+<h3> Audiovisual Masked Autoencoders</h3>
 
 <div style="width: 40%; float:left">
 <img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
@@ -22,7 +22,7 @@ ArXiv, 2022
 </div>
  
 
-Audiovisual Masked Autoencoders
+<h3> Audiovisual Masked Autoencoders</h3>
 
 <div style="width: 40%; float:left">
 <img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
