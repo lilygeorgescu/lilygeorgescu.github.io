@@ -74,6 +74,23 @@ Please send me an email if you have a job opening that fits my profile!
 
 <p style="color:#ffffff" align="justify">..<br><br></p>
 
+
+<h3>A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video</h3>
+    
+<div style="width: 45%; float:left">
+    <img  style="width: 80%"  src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/back_pipeline.png">
+</div> 
+<div style="width: 55%; float:right">
+    <b>Mariana-Iuliana Georgescu</b>, Radu Tudor Ionescu, Fahad Shahbaz Khan, Marius Popescu and Mubarak Shah
+    <br>
+    TPAMI, 2022
+    <br>
+    <a href="https://arxiv.org/abs/2008.12328">[Paper]</a>
+    <a href="https://github.com/lilygeorgescu/AED">[Code]</a>
+</div> 
+
+<p style="color:#ffffff" align="justify">..<br><br></p>
+
  
 <!-- [Link to another page](./another-page.html).
 
