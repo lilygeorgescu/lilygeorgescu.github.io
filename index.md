@@ -22,13 +22,13 @@ layout: default
 ArXiv, 2022
 <br>
 <a href="https://arxiv.org/pdf/2212.05922.pdf">Paper</a>
-br>
+<br>
 </div>
   </p>
 
 
 
-<p>
+<p style="float:left">
 <h3> Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution</h3>
     
 <div style="width: 45%; float:left">
