@@ -53,8 +53,7 @@ Please send me an email if you have a job opening that fits my profile!
     <br>
     <a href="https://arxiv.org/pdf/2204.04218.pdf">Paper</a>,
     <a href="https://github.com/lilygeorgescu/MHCA">Code</a>
-</div>
-
+</div> 
 </span>
 
  
