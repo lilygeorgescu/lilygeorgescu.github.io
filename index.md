@@ -4,20 +4,18 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-##  Selected Papers 
+##  Selected Publications 
 
 
 ### Audiovisual Masked Autoencoders
 
-<div style="width: 50%; float:left">
+<div style="width: 20%; float:left">
 <img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline.PNG" width="100px">
 </div>
-<div style="width: 50%; float:right">
+<div style="width: 80%; float:right">
 <b>Mariana-Iuliana Georgescu</b>, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab
-
-
-[ArXiv](https://arxiv.org/pdf/2212.05922.pdf)
-
+ 
+<a href="https://arxiv.org/pdf/2212.05922.pdf">ArXiv</a>
 </div>
 
 <!-- [Link to another page](./another-page.html).
