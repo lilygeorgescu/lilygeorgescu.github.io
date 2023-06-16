@@ -11,7 +11,7 @@ layout: default
     <h3> Audiovisual Masked Autoencoders</h3>
     
 <div style="width: 45%; float:left">
-<img   src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
+<img  style="width: 95%" src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/audiovisual_pipeline_2.PNG">
 </div> 
 <div style="width: 55%; float:right">
 <b>Mariana-Iuliana Georgescu</b>, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab,
