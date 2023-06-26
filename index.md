@@ -44,7 +44,7 @@ Please send me an email if you have a job opening that fits my profile!
     </div>
  
  
-<p style="color:#ffffff" align="justify">..<br><br></p>
+<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
 
 <h3> Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution</h3>
     
@@ -62,7 +62,7 @@ Please send me an email if you have a job opening that fits my profile!
     <a href="https://github.com/lilygeorgescu/MHCA">[Code]</a>
 </div> 
 
-<p style="color:#ffffff" align="justify">..<br><br></p>
+<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
 
 
 <h3>UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection</h3>
@@ -82,7 +82,7 @@ Please send me an email if you have a job opening that fits my profile!
     <a href="https://github.com/lilygeorgescu/UBnormal">[Code]</a>
 </div> 
 
-<p style="color:#ffffff" align="justify">..<br><br></p>
+<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
 
 
 <h3>A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video</h3>
@@ -99,7 +99,7 @@ Please send me an email if you have a job opening that fits my profile!
     <a href="https://github.com/lilygeorgescu/AED">[Code]</a>
 </div> 
 
-<p style="color:#ffffff" align="justify">..<br><br></p>
+<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
 
 
 
