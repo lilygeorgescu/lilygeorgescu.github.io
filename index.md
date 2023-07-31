@@ -29,7 +29,7 @@ Hi! I am Lili,  a final-year Ph.D. candidate in Computer Vision at University of
 - Nov 2020 - Feb 2021 - Applied Scientist Intern, Amazon, Germany.
 
 ##  Awards
--  Awarded the third prize in the <a href="https://primariaclujnapoca.ro/evenimente/tinerii-cercetatori-premiul-pentru-stiinta-si-inginerie/">„Young Researchers in Science and Engineering 2023”</a> organized by the Cluj-Napoca City Hall, Romania.
+-  Awarded the third prize in the <a href="https://primariaclujnapoca.ro/evenimente/tinerii-cercetatori-premiul-pentru-stiinta-si-inginerie/">„Young Researchers in Science and Engineering Contest 2023”</a> organized by the Cluj-Napoca City Hall, Romania.
 -  Participant of the CVPR Doctoral Consortium 2023 (13% acceptance rate), Canada.
 -   Awarded the first prize in the <a href="https://fmi.unibuc.ro/comunicari-stiintifice-studentesti-2022-2/">„Student Scientific Communications Session 2022”</a> organized by the Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
 
