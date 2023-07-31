@@ -19,14 +19,22 @@ Hi! I am Lili,  a final-year Ph.D. candidate in Computer Vision at University of
 
 </p>
 
-<p style="color:#FF0000" align="justify"> 
-I am looking for research scientist and post-doc positions (in Europe).
-Please send me an email if you have a job opening that fits my profile!
-</p>
+##  Education
+- Oct 2019 - TBA 2023 - PhD in Computer Science, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
+- Oct 2017 - Jun 2019 - MsC in Artificial Intelligence, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
+- Oct 2014 - Jun 2017 - BsC in Computer Science, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
+
+##  Internships
+- Aug 2022 - Nov 2022 - Research Intern, Google, France. 
+- Nov 2020 - Feb 2021 - Applied Scientist Intern, Amazon, Germany.
+
+##  Awards
+-  Awarded the third prize in the <a href="https://primariaclujnapoca.ro/evenimente/tinerii-cercetatori-premiul-pentru-stiinta-si-inginerie/">„Young Researchers in Science and Engineering 2023”</a> organized by the Cluj-Napoca City Hall, Romania.
+-  Participant of the CVPR Doctoral Consortium 2023 (13% acceptance rate), Canada.
+-   Awarded the first prize in the <a href="https://fmi.unibuc.ro/comunicari-stiintifice-studentesti-2022-2/">„Student Scientific Communications Session 2022”</a> organized by the Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
 
 ##  Selected Publications 
-
-
+ 
  
 <h3>Audiovisual Masked Autoencoders</h3>
     
@@ -37,7 +45,7 @@ Please send me an email if you have a job opening that fits my profile!
 <div style="width: 55%; float:right">
     <b>Mariana-Iuliana Georgescu*</b>, Eduardo Fonseca, Radu Tudor Ionescu, Mario Lucic, Cordelia Schmid, Anurag Arnab*, *equal contribution
     <br>
-    ArXiv, 2022
+    ICCV, 2023
     <br>
     <a href="https://arxiv.org/pdf/2212.05922.pdf">[Paper]</a>
     <br>
