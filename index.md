@@ -20,7 +20,7 @@ Hi! I am Lili and I am a postdoctoral researcher under the supervision of Prof. 
 </p>
 
 ##  Education
-- Feb 2024 - TBA - Postdoc, Hemlholtz Munich, Germany.
+- Feb 2024 - TBA - Postdoc, Helmholtz Munich, Germany.
 - Oct 2019 - Sep 2023 - PhD in Computer Science, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
 - Oct 2017 - Jun 2019 - MsC in Artificial Intelligence, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
 - Oct 2014 - Jun 2017 - BsC in Computer Science, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
