@@ -7,7 +7,7 @@ layout: default
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 <p align="justify">
-Hi! I am Lili,  a final-year Ph.D. candidate in Computer Vision at University of Bucharest. I am very happy to be advised by Prof. Dr. Radu Ionescu. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
+Hi! I am Lili and I am a postdoctoral researcher under the supervision of Prof. Dr. Zeynep Akata. I obtained by Ph.D in Computer Vision from the University of Bucharest under the supervision of Prof. Dr. Radu Ionescu. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
 </p>
 
 
@@ -20,7 +20,8 @@ Hi! I am Lili,  a final-year Ph.D. candidate in Computer Vision at University of
 </p>
 
 ##  Education
-- Oct 2019 - TBA 2023 - PhD in Computer Science, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
+- Feb 2024 - TBA - Postdoc, Hemlholtz Munich, Germany.
+- Oct 2019 - Sep 2023 - PhD in Computer Science, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
 - Oct 2017 - Jun 2019 - MsC in Artificial Intelligence, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
 - Oct 2014 - Jun 2017 - BsC in Computer Science, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
 
