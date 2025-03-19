@@ -7,7 +7,8 @@ layout: default
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 <p align="justify">
-Hi:cherry_blossom:! I am Lili and I am a postdoctoral researcher under the supervision of Prof. Dr. Zeynep Akata. I obtained by Ph.D in Computer Vision from the University of Bucharest under the supervision of Prof. Dr. Radu Ionescu. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
+Hi ![image](https://github.com/user-attachments/assets/dbb7ac4e-70fe-4c26-9da5-e37123e90edc)
+! I am Lili and I am a postdoctoral researcher under the supervision of Prof. Dr. Zeynep Akata. I obtained by Ph.D in Computer Vision from the University of Bucharest under the supervision of Prof. Dr. Radu Ionescu. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
 
 A short summary about my academic achivement:
 
