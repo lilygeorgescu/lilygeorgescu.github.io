@@ -9,10 +9,10 @@ layout: default
 <p align="justify">
 Hi 🌸! I am Lili and I am a postdoctoral researcher under the supervision of Prof. Dr. Zeynep Akata. I obtained by Ph.D in Computer Vision from the University of Bucharest under the supervision of Prof. Dr. Radu Ionescu. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
 
-<br>
+<br><br>
 A short summary about my academic achivements:
 
-<br>
+<br><br>
 
 <i>
 Mariana-Iuliana Georgescu is a Computer Vision Researcher with a PhD in Computer Vision from the University of Bucharest. Currently a Postdoctoral Researcher at Helmholtz Munich, she specializes in multimodal learning, video anomaly detection, and medical image analysis.
