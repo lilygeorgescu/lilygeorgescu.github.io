@@ -10,6 +10,11 @@ layout: default
 Hi 🌸! I am Lili and I am a postdoctoral researcher under the supervision of <a href='https://www.eml-munich.de/people/zeynep-akata'>Prof. Dr. Zeynep Akata</a>. I obtained by Ph.D in Computer Vision from the University of Bucharest under the supervision of <a href='https://raduionescu.herokuapp.com/'>Prof. Dr. Radu Ionescu</a>. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
 
 <br><br>
+
+My goal is to conduct impactful deep learning research, while cultivating empathy and promoting growth and collaboration.
+
+
+<br><br>
 A short summary about my academic achivements:
 
 <br><br>
