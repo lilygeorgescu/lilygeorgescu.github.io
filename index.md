@@ -9,7 +9,10 @@ layout: default
 <p align="justify">
 Hi 🌸! I am Lili and I am a postdoctoral researcher under the supervision of Prof. Dr. Zeynep Akata. I obtained by Ph.D in Computer Vision from the University of Bucharest under the supervision of Prof. Dr. Radu Ionescu. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
 
+<br>
 A short summary about my academic achivements:
+
+<br>
 
 <i>
 Mariana-Iuliana Georgescu is a Computer Vision Researcher with a PhD in Computer Vision from the University of Bucharest. Currently a Postdoctoral Researcher at Helmholtz Munich, she specializes in multimodal learning, video anomaly detection, and medical image analysis.
@@ -29,7 +32,7 @@ She actively collaborates with industry and academia to advance deep learning re
 </p>
 
 ##  Education
-- Feb 2024 - TBA - Postdoc, Helmholtz Munich, Germany.
+- Feb 2024 - Now - Postdoc, Helmholtz Munich, Germany.
 - Oct 2019 - Sep 2023 - PhD in Computer Science, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
 - Oct 2017 - Jun 2019 - MsC in Artificial Intelligence, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
 - Oct 2014 - Jun 2017 - BsC in Computer Science, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
@@ -39,6 +42,7 @@ She actively collaborates with industry and academia to advance deep learning re
 - Nov 2020 - Feb 2021 - Applied Scientist Intern, Amazon, Germany.
 
 ##  Awards
+-  Awared the Best Romanian AI PhD Thesis organized by <a href="https://days.airomania.eu/previous-editions/bucharest2024/competition2024#h.hzpcty54xjdp">RAID 2024</a>, Romania 2024
 -  Awarded the third prize in the <a href="https://primariaclujnapoca.ro/evenimente/tinerii-cercetatori-premiul-pentru-stiinta-si-inginerie/">„Young Researchers in Science and Engineering Contest 2023”</a> organized by the Cluj-Napoca City Hall, Romania.
 -  Participant of the CVPR Doctoral Consortium 2023 (13% acceptance rate), Canada.
 -   Awarded the first prize in the <a href="https://fmi.unibuc.ro/comunicari-stiintifice-studentesti-2022-2/">„Student Scientific Communications Session 2022”</a> organized by the Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
@@ -66,7 +70,7 @@ Sanghwan Kim, Rui Xiao, <b>Mariana-Iuliana Georgescu</b>, Stephan Alaniz, Zeynep
     </div>
  
  
-<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
+<p style="color:#ffffff" align="justify">..<br><br></p>
  
 
  <h3>FLAIR: VLM with Fine-grained Language-informed Image Representations</h3>
@@ -85,7 +89,7 @@ Sanghwan Kim, Rui Xiao, <b>Mariana-Iuliana Georgescu</b>, Stephan Alaniz, Zeynep
     </div>
  
  
-<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
+<p style="color:#ffffff" align="justify">..<br><br></p>
  
 <h3>EgoCVR: An Egocentric Benchmark for Fine-Grained Composed Video Retrieval</h3>
     
@@ -103,7 +107,7 @@ Sanghwan Kim, Rui Xiao, <b>Mariana-Iuliana Georgescu</b>, Stephan Alaniz, Zeynep
     </div>
  
  
-<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
+<p style="color:#ffffff" align="justify">..<br><br></p>
 
 
 
@@ -123,7 +127,7 @@ Sanghwan Kim, Rui Xiao, <b>Mariana-Iuliana Georgescu</b>, Stephan Alaniz, Zeynep
     </div>
  
  
-<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
+<p style="color:#ffffff" align="justify">..<br><br></p>
 
 <h3> Multimodal Multi-Head Convolutional Attention with Various Kernel Sizes for Medical Image Super-Resolution</h3>
     
@@ -141,7 +145,7 @@ Sanghwan Kim, Rui Xiao, <b>Mariana-Iuliana Georgescu</b>, Stephan Alaniz, Zeynep
     <a href="https://github.com/lilygeorgescu/MHCA">[Code]</a>
 </div> 
 
-<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
+<p style="color:#ffffff" align="justify">..<br><br></p>
 
 
 <h3>UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection</h3>
@@ -161,7 +165,7 @@ Sanghwan Kim, Rui Xiao, <b>Mariana-Iuliana Georgescu</b>, Stephan Alaniz, Zeynep
     <a href="https://github.com/lilygeorgescu/UBnormal">[Code]</a>
 </div> 
 
-<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
+<p style="color:#ffffff" align="justify">..<br><br></p>
 
 
 <h3>A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video</h3>
@@ -178,7 +182,7 @@ Sanghwan Kim, Rui Xiao, <b>Mariana-Iuliana Georgescu</b>, Stephan Alaniz, Zeynep
     <a href="https://github.com/lilygeorgescu/AED">[Code]</a>
 </div> 
 
-<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
+<p style="color:#ffffff" align="justify">..<br><br></p>
 
 
 
