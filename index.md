@@ -7,10 +7,9 @@ layout: default
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 <p align="justify">
-Hi ![image](https://github.com/user-attachments/assets/dbb7ac4e-70fe-4c26-9da5-e37123e90edc)
-! I am Lili and I am a postdoctoral researcher under the supervision of Prof. Dr. Zeynep Akata. I obtained by Ph.D in Computer Vision from the University of Bucharest under the supervision of Prof. Dr. Radu Ionescu. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
+Hi 🌸! I am Lili and I am a postdoctoral researcher under the supervision of Prof. Dr. Zeynep Akata. I obtained by Ph.D in Computer Vision from the University of Bucharest under the supervision of Prof. Dr. Radu Ionescu. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
 
-A short summary about my academic achivement:
+A short summary about my academic achivements:
 
 <i>
 Mariana-Iuliana Georgescu is a Computer Vision Researcher with a PhD in Computer Vision from the University of Bucharest. Currently a Postdoctoral Researcher at Helmholtz Munich, she specializes in multimodal learning, video anomaly detection, and medical image analysis.
@@ -45,8 +44,69 @@ She actively collaborates with industry and academia to advance deep learning re
 -   Awarded the first prize in the <a href="https://fmi.unibuc.ro/comunicari-stiintifice-studentesti-2022-2/">„Student Scientific Communications Session 2022”</a> organized by the Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
 
 ##  Selected Publications 
+
+
+
+
+
+
+<h3>COSMOS: Cross-Modality Self-Distillation for Vision Language Pre-training</h3>
+    
+<div style="width: 45%; float:left">
+   <center><img   style="width: 80%" src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/cosmos.PNG">
+    </center> 
+</div> 
+<div style="width: 55%; float:right">
+Sanghwan Kim, Rui Xiao, <b>Mariana-Iuliana Georgescu</b>, Stephan Alaniz, Zeynep Akata
+    <br>
+    CVPR, 2025
+    <br>
+    <a href="https://arxiv.org/pdf/2412.01814">[Paper]</a>
+    <br>
+    </div>
  
  
+<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
+ 
+
+ <h3>FLAIR: VLM with Fine-grained Language-informed Image Representations</h3>
+    
+<div style="width: 45%; float:left">
+   <center><img   style="width: 80%" src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/flair.PNG">
+    </center> 
+</div> 
+<div style="width: 55%; float:right">
+ Rui Xiao, Sanghwan Kim, <b>Mariana-Iuliana Georgescu</b>, Zeynep Akata, Stephan Alaniz
+    <br>
+    CVPR, 2025
+    <br>
+    <a href="https://arxiv.org/pdf/2412.03561">[Paper]</a>
+    <br>
+    </div>
+ 
+ 
+<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
+ 
+<h3>EgoCVR: An Egocentric Benchmark for Fine-Grained Composed Video Retrieval</h3>
+    
+<div style="width: 45%; float:left">
+   <center><img   style="width: 80%" src="https://raw.githubusercontent.com/lilygeorgescu/lilygeorgescu.github.io/master/imgs/egocvr.PNG">
+    </center> 
+</div> 
+<div style="width: 55%; float:right">
+    Thomas Hummel, Shyamgopal Karthik, Mariana-Iuliana Georgescu, Zeynep Akata
+    <br>
+    ECCV, 2024
+    <br>
+    <a href="https://arxiv.org/pdf/2407.16658">[Paper]</a>
+    <br>
+    </div>
+ 
+ 
+<p style="color:#ffffff" align="justify">..<br><br>..<br><br></p>
+
+
+
 <h3>Audiovisual Masked Autoencoders</h3>
     
 <div style="width: 45%; float:left">
