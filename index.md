@@ -7,7 +7,7 @@ layout: default
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 <p align="justify">
-Hi 🌸! I am Lili and I am a postdoctoral researcher at Helmholtz Munich. I obtained by Ph.D in Computer Vision from the University of Bucharest under the supervision of <a href='https://raduionescu.herokuapp.com/'>Prof. Dr. Radu Ionescu</a>. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
+Hi 🌸! I am Lili and I am a Machine Learning Scientist at Firefly, Adobe. I obtained by Ph.D in Computer Vision from the University of Bucharest under the supervision of <a href='https://raduionescu.herokuapp.com/'>Prof. Dr. Radu Ionescu</a>. I previously worked on video anomaly detection and medical image analysis. My current research interests are self-supervision and multi-modal learning.
 
 <br><br>
 
@@ -37,7 +37,7 @@ She actively collaborates with industry and academia to advance deep learning re
 </p>
 
 ##  Education
-- Feb 2024 - Now - Postdoc, Helmholtz Munich, Germany.
+- Feb 2024 - June 2025 - Postdoc, Helmholtz Munich, Germany.
 - Oct 2019 - Sep 2023 - PhD in Computer Science, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
 - Oct 2017 - Jun 2019 - MsC in Artificial Intelligence, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
 - Oct 2014 - Jun 2017 - BsC in Computer Science, Faculty of Mathematics and Computer Science, University of Bucharest, Romania.
