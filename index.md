@@ -20,7 +20,7 @@ A short summary about my academic achivements:
 <br><br>
 
 <i>
-Iuliana Georgescu is a Computer Vision Researcher with a PhD in Computer Vision from the University of Bucharest. Currently a Postdoctoral Researcher at Helmholtz Munich, she specializes in multimodal learning, video anomaly detection, and medical image analysis.
+Iuliana Georgescu is a Computer Vision Researcher with a PhD in Computer Vision from the University of Bucharest. Currently a ML Scientist at Adobe, she specializes in multimodal learning, video anomaly detection, and medical image analysis.
 She has interned at Google and Amazon, contributed to top-tier conferences (CVPR, ICCV, ECCV), and received multiple awards, including the Best Romanian AI PhD Thesis Award (2024). She has co-authored several high-impact publications and serves as a reviewer for major ML/CV conferences and journals.
 She actively collaborates with industry and academia to advance deep learning research.
 </i>
